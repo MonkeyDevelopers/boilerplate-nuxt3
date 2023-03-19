@@ -1,0 +1,1 @@
+# boilerplate-nuxt3
