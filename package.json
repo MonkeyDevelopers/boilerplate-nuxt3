@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.16.3",
+    "@nuxtjs/i18n": "^8.0.0-beta.10",
+    "nuxt": "^3.3.1"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.4.7",
+    "pinia": "^2.0.33",
+    "vue3-toastify": "^0.1.5"
+  }
+}
