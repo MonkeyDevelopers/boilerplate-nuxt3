@@ -13,11 +13,11 @@ export const useCompany = defineStore('company', {
    actions: {
       async listCompanies(){
                   
-         const data = await $fetch( 'https://rickandmortyapi.com/api/character/88', {
+         const data = await $fetch( 'https://rickandmortyapi.com/api/character', {
                method: 'GET',
          });
          
-         this.companies = data;
+         this.companies = data.results.slice(0, 10);
          
           
           toast('Companias obtidas com sucesso!!', { position: toast.POSITION.BOTTOM_CENTER, transition: toast.TRANSITIONS.FLIP, type: toast.TYPE.SUCCESS });
