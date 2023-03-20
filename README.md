@@ -4,8 +4,10 @@
  - [X] Nuxt3
  - [X] Pinia (State Management)
  - [X] Exemplo Fetch
+ - [X] i18n (Internacionalization)
  - [ ] Tailwind
  - [ ] Vuetify
+ - [ ] Tailwind + Vuetify
  - [ ] Auth
  - [ ] Auth0
 
