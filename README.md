@@ -10,6 +10,7 @@
  - [ ] Tailwind + Vuetify
  - [ ] Auth
  - [ ] Auth0
+ - [ ] Docker (Dockerfile)
 
 
 Feito com <3 por @daviprm @caio-emidio (Em1dio)
