@@ -5,7 +5,7 @@
  - [X] Pinia (State Management)
  - [X] Exemplo Fetch
  - [X] i18n (Internacionalization)
- - [ ] Tailwind
+ - [X] Tailwind - New Branch (base+tailwind)
  - [ ] Vuetify
  - [ ] Tailwind + Vuetify
  - [ ] Auth
